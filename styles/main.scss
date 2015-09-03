@@ -1,0 +1,119 @@
+@import '../node_modules/bootstrap/dist/css/bootstrap.css';
+
+.logodiv {
+	padding: 1em 2em;
+	letter-spacing: 1px;
+}
+.logo {
+	font-size: 1.2em;
+	color: #0090DE;
+	background: transparent;
+	font-weight: 500;
+}
+.logo2 {
+	font-size: 1.2em;
+	color: #56595E;
+	background: transparent;
+	font-weight: 500;
+
+}
+#burger {
+	font-size: 1.5em;
+	background: #0090DE;
+	border: 2px solid #0090DE;
+	border-radius: 20%;
+	display: inline-block;
+	color: white;
+	float: right;
+	margin-right: 2em;
+}
+.hero {
+
+	overflow: hidden;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 18em;
+	background: rgba(0, 0, 0, 0.2);
+
+}
+.heroBack {
+	background-image: url(../images/hero-image.jpg);
+	overflow: hidden;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.heroText {
+	text-align: center;
+	color: white;
+	background: transparent;
+	font-size: 3em;
+	margin-top: 1.6em;
+	font-family: sans-serif;
+	opacity: 1;
+}
+.heroTextTwo {
+	text-align: center;
+	color: white;
+	background: transparent;
+	font-size: 1em;
+	margin: .5em 8em;
+	font-family: sans-serif;
+	opacity: 1;
+}
+.desc {
+	text-align: left;
+	font-size: 1.3em;
+	color: #8B8E90;
+	margin: .5em 0;
+}
+.descSmall {
+	text-align: left;
+	font-size: .9em;
+	color: #8B8E90;
+	margin: .5em 0 2em 0;
+	max-width: 80%; 
+}
+#descOne {
+	margin: 0 3em;
+}
+#downloadNow {
+	width: 30%;
+	font-size: .8em;
+}
+.line {
+	height: 1px;
+	background: #8B8E90;
+	margin-top: 1em;
+}
+.textBox {
+	color: #8B8E90;
+	margin: 1em 0;
+	background: #F0F0F0;
+	padding: .5em .5em;
+}
+.lineOne {
+	color: #8B8E90;
+	font-size: 1em;
+	margin: .5em .5em;
+
+}
+.lineTwo {
+	color: #8B8E90;
+	font-size: .8em;
+	margin: .5em .5em;
+
+}
+#pic1 {
+	background-image: url(../images/thumb1.jpg);
+	background-size: cover;
+}
+.picText {
+	font-size: 1em;
+	color: #B6B6B6;
+
+}
+.footer {
+	background: #3A414B;
+	margin-top: 1em;
+	padding: 1.5em 7em;
+}
